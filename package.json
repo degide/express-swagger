@@ -1,0 +1,8 @@
+{
+  "name": "express-swagger",
+  "version": "1.0.0",
+  "description": "Swagger documentation tutorial",
+  "main": "index.js",
+  "author": "Harerimana Egide <egideharerimana085@gmail.com>",
+  "license": "MIT"
+}
