@@ -1,0 +1,12 @@
+# Paths for base/root url
+paths:
+  /:
+    get:
+      tags:
+        - Base
+      summary: Get a welcome message
+      produces:
+        - text/plain
+      responses:
+        200:
+          description: A welcome message
